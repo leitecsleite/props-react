@@ -2,7 +2,7 @@ import React from 'react';
 import Titulo from '../Titulo';
 import ItemLista from '../ItemLista';
 
-import './estilo.css';
+import './style.css';
 
 export default function ListaDeSignos() {
   return (
